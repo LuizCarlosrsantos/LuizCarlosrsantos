@@ -1,5 +1,3 @@
-Ola pessoal, me chamo Luiz Carlos Ribeiro Dos Santos e estou:
-
 🔭 Trabalhando como analista e desenvolvedor Full Stack Junior.
 
 🌱 HTML/CSS e JS.
