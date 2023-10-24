@@ -2,11 +2,11 @@ Ola pessoal, me chamo Luiz Carlos Ribeiro Dos Santos e estou:
 
 🔭 Trabalhando como analista e desenvolvedor Full Stack Junior.
 
-🌱 Estudando HTML/CSS e JS.
+🌱 HTML/CSS e JS.
 
-🌱 Estudando PHP.
+🌱 PHP.
 
-🌱 Estudando Laravel.
+🌱 Laravel.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizCarlosrsantos&show_icons=true&theme=tokyonight)
