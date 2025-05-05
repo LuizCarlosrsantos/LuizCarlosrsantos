@@ -2,10 +2,6 @@
 
 🌱 HTML/CSS e JS.
 
-🌱 PHP.
-
-🌱 Laravel.
-
 🌱 Progress4GL.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizCarlosrsantos&show_icons=true&theme=tokyonight)
